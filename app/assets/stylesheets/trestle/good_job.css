@@ -1,0 +1,12 @@
+.good_job-header-button {
+  float: right;
+  margin: 6px 16px;
+  font-size: 26px;
+}
+
+.good_job-iframe {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  border: 0;
+}

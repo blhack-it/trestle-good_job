@@ -7,7 +7,7 @@
 These instructions assume you have a working Trestle application. To integrate trestle-good_job, first add it to your application's Gemfile:
 
 ```ruby
-gem 'trestle-good_job'
+gem "trestle-good_job", github: "blhack-it/trestle-good_job"
 ```
 
 Run `bundle install`, and then restart your Rails server. You will then be able to access the GoodJob dashboard by accessing `/admin/good_job`
